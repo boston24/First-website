@@ -1,0 +1,205 @@
+body{
+	color: #ffffff;
+	background-image: url("tlo.jpg");
+	font-family: 'Staatliches', cursive;	
+}
+
+h1.logo{
+	height:80px;
+	font-size: 85px;
+	font-family: 'Pacifico', cursive;
+	width: 80%;
+	text-align: center;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top: 0.5%;
+}
+
+a.linklogo{
+	color:black;
+	text-decoration:none;
+}
+
+a.linknav{
+	color:black;
+	text-decoration:none;
+}
+
+nav{
+	width: 80%;
+	background-color:white;
+	text-align:center;
+	margin-left:auto;
+	margin-right:auto;
+	border-radius:20px;
+	border-style:solid;
+	border-width:2px;
+	border-color:black;
+}
+
+li{
+	width: 15%;
+	background-image:url("tlo.jpg");
+	margin: 0.8%;
+	font-size:25px;	
+	border-style:solid;
+	border-width:2px;
+	border-color:black;
+}
+
+.menu{
+	list-style-type:none;
+	margin: 0;
+	padding: 10px;
+	font-size:18px;
+	min-height:40px;
+	line-height:200%;
+}
+
+.menu > li{
+	display: inline-block;
+	padding-left: 20px;
+	padding-right:20px;
+}
+
+article{
+	overflow-y: scroll;
+	border-radius:20px;
+	color:black;
+	background-color:white;
+	width:60%;
+	margin-top:0.8%;
+	margin-left:10%;
+	padding: 10px;	
+	height:369px;
+	background: rgba(54, 40, 54, 0.2);
+	border-style:solid;
+	border-width:2px;
+	border-right-style:none;
+	float:left;
+}
+
+table, th, td {
+	border: 1px double black;
+	width: 80%;
+	height:90%;
+	text-align:center;
+	color:black;
+	padding:10px;
+}
+
+figure{
+	float:left;
+	margin-left:auto;
+	margin-right:100px;
+}
+
+table{
+	margin-left:auto;
+	margin-right:auto;
+}
+
+section{
+	border-style:dashed;
+	border-width:2px;
+	border-color:black;
+	padding:10px;
+	margin-bottom:10px;
+}
+
+#fel{
+	height:80px;
+	font-size:44px;
+	text-align:center;
+	font-weight:bold;
+}
+
+aside{
+	float: left;
+	margin:0.7%;
+	background-color:white;
+	text-align:center;
+	padding:5px;
+	border-style:solid;
+	border-width:2px;
+	border-radius:20px;
+	border-color:black;
+	height: 380px;
+	width:17.2%;
+	color:black;
+	font-size:200%;
+}
+	
+.yt{
+	margin-top:10px;
+	background-color:red;
+	color:white;
+	width:80%;
+	height:12%;
+	text-align:center;
+	padding: 5%;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.fb{
+	margin-top:10px;
+	background-color:blue;
+	color:white;
+	width:80%;
+	height:12%;
+	text-align:center;
+	padding: 5%;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.ig{
+	margin-top:10px;
+	background-color:orange;
+	color:white;
+	width:80%;
+	height:12%;
+	text-align:center;
+	padding: 5%;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.tw{
+	margin-top:10px;
+	background-color:skyblue;
+	color:white;
+	width:80%;
+	height:12%;
+	text-align:center;
+	padding: 5%;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.social{
+	color:white;
+	text-decoration:none;
+}
+	
+footer{
+	clear:both;
+	margin-left:auto;
+	margin-right:auto;
+	text-align: center;
+	width:80%;
+	height:30px;
+	border-radius:15px;
+	background-color:white;
+	color:black;
+	padding-top:10px;
+	border-style:solid;
+	border-width:2px;	
+}
+
+
+
+
+	
+
